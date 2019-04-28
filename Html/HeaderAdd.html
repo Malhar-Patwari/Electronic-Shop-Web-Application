@@ -1,0 +1,168 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>spigot - Free CSS Template by ZyPOP</title>
+<link rel="stylesheet" href="Html/styles.css" type="text/css" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>  
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<!--
+spigot, a free CSS web template by ZyPOP (zypopwebtemplates.com/)
+
+Download: http://zypopwebtemplates.com/
+
+License: Creative Commons Attribution
+//-->
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	
+	<script type="text/javascript">
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+           var jsonData = $.ajax({
+               url: "inventorybarController",
+               dataType: "json",
+               async: false
+               }).responseText;
+     var chartData=JSON.parse(jsonData);
+	 console.log("kjafda"+chartData);
+    
+	
+        var data = new google.visualization.DataTable();
+        data.addColumn('string','name');
+        data.addColumn('number','quantity');
+     for(var i=0;i<chartData.length;i++){
+            var currentObj = chartData[i];
+           data.addRow([currentObj["name"],currentObj["quantity"]]);
+          
+         }
+		
+		var options = {'title':'Inventory Product Chart',
+                     'width':650,
+                     'height':1700,
+					 // legend: 'none',
+           bar: {groupWidth: '25%'}};
+		
+		
+  var chart = new google.visualization.BarChart(document.getElementById('piechart'));
+
+        chart.draw(data, options);
+      }
+	  
+    </script>
+	<script type="text/javascript">
+	console.log("in headeradd");
+	google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart_sales);
+	  function drawChart_sales() {
+           var jsonData = $.ajax({
+               url: "salesbarController",
+               dataType: "json",
+               async: false
+               }).responseText;
+     var chartData=JSON.parse(jsonData);
+    //console.log(chartData);
+	
+        var data = new google.visualization.DataTable();
+        data.addColumn('string','name');
+        data.addColumn('number','Total sale');
+     for(var i=0;i<chartData.length;i++){
+            var currentObj = chartData[i];
+           data.addRow([currentObj["name"],currentObj["quantity"]*currentObj["price"]]);
+          
+         }
+  var chart = new google.visualization.BarChart(document.getElementById('piechart_sales'));
+
+        chart.draw(data, {width: 400, height: 340});
+      }
+	</script>
+	
+	
+	
+</head>
+<style>  
+  .carousel-inner > .item > img,  
+  .carousel-inner > .item > a > img {  
+      width: 80%;  
+      margin: auto;  
+  }  
+  .search{
+   width: 240px;
+   
+    font-size: 16px;
+    float:right;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+   
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+  }
+</style>  
+<body onload= "init()">
+<div id="container">
+<script type = "text/javascript" src="searchjavascript.js"> </script>
+    <header>
+    	<h1><a href="/">Smart<span>Portables</span></a></h1>
+        <h2>Your Electronics Companion!</h2>
+		<div class="search">
+			<form name = "AutoCompleteServlet" action="AjaxAutoCompleteServlet">
+			
+			
+			<div name = "searchbar">
+		 <span class="glyphicon glyphicon-search"></span> 
+  <input type="text" name="searchid" class = "input" id= "searchid" placeholder="Search Products here.." onkeyup="doCompletion()">
+  <div id="auto-row">
+					<table border="0" id="complete-table" class="popupbox"></table>
+				</div>
+</div>
+</form>
+</div>
+		
+    </header>
+    <nav>
+    	<ul>
+        	<li class="start selected"><a href="Home"><span class="glyphicon glyphicon-home">Home</span></a></li>
+           
+      <!--<li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1
+        <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">Page 1-1</a></li>
+          <li><a href="#">Page 1-2</a></li>
+          <li><a href="#">Page 1-3</a></li>
+        </ul>
+      </li>
+			<li class="end"><a href="./AddProduct">Add Product</a></li>-->
+			<li class="end"><a href="./AddProduct">Add Product</a></li>
+            <li class="end"><a href="./Inventory">Inventory</a></li>
+			<li class="end"><a href="./Sales">Sales Report</a></li>
+			<li class="end"><a href="./StateSold">Data Exploration</a></li>
+			<li class="end"><a href="ViewCart"><span class="glyphicon glyphicon-shopping-cart"></span>Cart</a></li>
+			<li class="register"> <a href="./Registration" >register</a></li>
+			<li class="login"> <a href="./LogoutServlet" >logout</a></li>
+			
+        </ul>
+    </nav>
+<!--<nav class="navbar navbar-inverse">
+  
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="#">Home</a></li>
+      <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Page 1
+        <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#">Page 1-1</a></li>
+          <li><a href="#">Page 1-2</a></li>
+          <li><a href="#">Page 1-3</a></li>
+        </ul>
+      </li>
+      <li><a href="#">Page 2</a></li>
+      <li><a href="#">Page 3</a></li>
+    </ul>
+  </nav>-->
+
+	<img class="header-image" src="Html/images/image.jpg" alt="Buildings" />

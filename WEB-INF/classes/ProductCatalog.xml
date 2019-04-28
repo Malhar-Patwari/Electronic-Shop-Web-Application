@@ -1,0 +1,1423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+<!--  Smart Watch-->
+
+    <Product category="SmartWatches" id="1" >
+        
+        <name>Apple</name>
+        <condition>New</condition>
+		<image>iwatch.jpg</image>
+		<Accesory>belt.jpg</Accesory>
+        <price>499</price>
+		<discount>5</discount>
+		<warranty>0</warranty>
+		<manufacturer>Apple</manufacturer>
+		<rebate>No</rebate>
+		<quantity>30</quantity>
+		<onsale>yes</onsale>
+       
+    </Product> 
+	<Product category="SmartWatches" id="2" >
+        
+        <name>Sony</name>
+        <condition>belt</condition>
+		<image>sonyw.jpg</image>
+		<Accesory>belt.jpg</Accesory>
+        <price>399</price>
+       <discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Sony</manufacturer>
+		<rebate>Yes</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+		
+    </Product> 
+	<Product category="SmartWatches" id="3" >
+        
+        <name>Samsung Gear</name>
+        <condition>New</condition>
+		<image>samsunggearw.jpg</image>
+		<Accesory>belt.jpg</Accesory>
+        <price>499</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Samsung</manufacturer>
+		<rebate>No</rebate>
+		<quantity>30</quantity>
+		<onsale>yes</onsale>
+       
+    </Product> 
+	<Product category="SmartWatches" id="4" >
+        
+        <name>Samsung</name>
+        <condition>New</condition>
+		<image>samsungw.jpg</image>
+		<Accesory>belt.jpg</Accesory>
+        <price>399</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Samsung</manufacturer>
+		<rebate>No</rebate>
+		<quantity>15</quantity>
+		<onsale>yes</onsale>
+       
+    </Product> 
+	<Product category="SmartWatches" id="5" >
+        
+        <name>Xiaomi</name>
+        <condition>New</condition>
+		<image>xiaomiw.jpg</image>
+		<Accesory>belt.jpg</Accesory>
+        <price>299</price>
+		<discount>50</discount>
+		<warranty>0</warranty>
+		<manufacturer>Xiaomi</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>No</onsale>
+		
+       
+    </Product>
+	<Product category="SmartWatches" id="6" >
+        
+        <name>Nexus</name>
+        <condition>New</condition>
+		<image>nexusw.jpg</image>
+		<Accesory>belt.jpg</Accesory>
+        <price>399</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Nexus</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>No</onsale>
+       
+    </Product> 
+	<Product category="SmartWatches" id="7" >
+        
+        <name>Fitbit</name>
+        <condition>New</condition>
+		<image>fitbitw.jpg</image>
+		<Accesory>belt.jpg</Accesory>
+        <price>399</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Fitbit</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product> 
+	<Product category="SmartWatches" id="8" >
+        
+        <name>Motorola</name>
+        <condition>New</condition>
+		<image>motow.jpg</image>
+		<Accesory>belt.jpg</Accesory>
+        <price>399</price>
+		<discount>15</discount>
+		<warranty>0</warranty>
+		<manufacturer>Motorola</manufacturer>
+		<rebate>Yes</rebate>
+		<quantity>15</quantity>
+		<onsale>yes</onsale>
+       
+    </Product> 
+	<Product category="SmartWatches" id="9" >
+        
+        <name>One Plus</name>
+        <condition>New</condition>
+		<image>oneplusw.jpg</image>
+		<Accesory>belt.jpg</Accesory>
+        <price>399</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>One Plus</manufacturer>
+		<rebate>No</rebate>
+		<quantity>25</quantity>
+		<onsale>No</onsale>
+       
+    </Product> 
+	<Product category="SmartWatches" id="10" >
+        
+        <name>Paul Hewitt</name>
+        <condition>New</condition>
+		<image>sw10.jpg</image>
+		<Accesory>belt.jpg</Accesory>
+        <price>399</price>
+		<discount>0</discount>
+		<warranty>30</warranty>
+		<manufacturer>PaulHewitt</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product> 
+	
+	<!-- Fitness Watch-->
+	  <Product category="FitnessWatches" id="11" >
+        
+        <name>Fitbit</name>
+        <condition>New</condition>
+		<image>fitbit.jpg</image>
+		<Accesory>case.jpg</Accesory>
+        <price>500</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Fitbit</manufacturer>
+		<rebate>No</rebate>
+		<quantity>30</quantity>
+		<onsale>yes</onsale>
+       
+    </Product> 
+	<Product category="FitnessWatches" id="12" >
+        
+        <name>Kelvin</name>
+        <condition>New</condition>
+		<image>kelvinf.jpg</image>
+		<Accesory>case.jpg</Accesory>
+        <price>300</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Kelvin</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>No</onsale>
+       
+    </Product> 
+	<Product category="FitnessWatches" id="13" >
+        
+        <name>Montblanc</name>
+        <condition>New</condition>
+		<image>fw3.jpg</image>
+		<Accesory>case.jpg</Accesory>
+        <price>399</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Montblanc</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product> 
+	<Product category="FitnessWatches" id="14" >
+        
+        <name>Garmin</name>
+        <condition>New</condition>
+		<image>garmin.jpg</image>
+		<Accesory>case.jpg</Accesory>
+        <price>399</price>
+		<discount>20</discount>
+		<warranty>0</warranty>
+		<manufacturer>Garmin</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product> 
+	<Product category="FitnessWatches" id="15" >
+        
+        <name>iPM</name>
+        <condition>New</condition>
+		<image>ipm.jpg</image>
+		<Accesory>case.jpg</Accesory>
+        <price>299</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>iPM</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>No</onsale>
+       
+    </Product>
+	<Product category="FitnessWatches" id="16" >
+        
+        <name>Fitness Tracker</name>
+        <condition>New</condition>
+		<image>fitnesstracker.jpg</image>
+		<Accesory>case.jpg</Accesory>
+        <price>450</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>FitnessTracker</manufacturer>
+		<rebate>Yes</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product> 
+	<Product category="FitnessWatches" id="17" >
+        
+        <name>Heart Rate</name>
+        <condition>New</condition>
+		<image>fw7.jpg</image>
+		<Accesory>case.jpg</Accesory>
+        <price>250</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>HeartRate</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product> 
+	<Product category="FitnessWatches" id="18" >
+        
+        <name>Amazon</name>
+        <condition>New</condition>
+		<image>amazonf.jpg</image>
+		<Accesory>case.jpg</Accesory>
+        <price>400</price>
+		<discount>0</discount>
+		<warranty>100</warranty>
+		<manufacturer>Amazon</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product> 
+	<Product category="FitnessWatches" id="19" >
+        
+        <name>Nixon</name>
+        <condition>New</condition>
+		<image>fw9.jpg</image>
+		<Accesory>case.jpg</Accesory>
+        <price>599</price>
+		<discount>0</discount>
+		<warranty>120</warranty>
+		<manufacturer>Nixon</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>No</onsale>
+       
+    </Product> 
+	<Product category="FitnessWatches" id="20" >
+        
+        <name>Paul Hewitt</name>
+        <condition>New</condition>
+		<image>fw10.jpg</image>
+		<Accesory>case.jpg</Accesory>
+		<price>370</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>PaulHewitt</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>yes</onsale>
+       
+    </Product> 
+	
+	<!--Phones-->
+	
+	
+	<Product category="Phones" id="21" >
+        
+        <name>Apple iphone X</name>
+        <condition>New</condition>
+		<image>iphone1.jpg</image>
+		<Accesory>charger.jpg</Accesory>
+        <price>1300</price>
+		<manufacturer>Apple</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product> 
+	<Product category="Phones" id="22" >
+        
+        <name>Apple iphone</name>
+        <condition>Apple iphone</condition>
+		<image>iphone2.jpg</image>
+		<Accesory>charger.jpg</Accesory>
+        <price>1100</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Apple</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="Phones" id="23" >
+        
+        <name>One Plus</name>
+        <condition>New</condition>
+		<image>oneplus.jpg</image>
+		<Accesory>charger.jpg</Accesory>
+        <price>599</price>
+		<discount>20</discount>
+		<warranty>0</warranty>
+		<manufacturer>OnePlus</manufacturer>
+		<rebate>No</rebate>
+		<quantity>30</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+    <Product category="Phones" id="24" >
+        
+        <name>Motorola</name>
+        <condition>New</condition>
+		<image>moto.jpg</image>
+		<Accesory>charger.jpg</Accesory>
+        <price>450</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Motorola</manufacturer>
+		<rebate>No</rebate>
+		<quantity>25</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="Phones" id="25" >
+        
+        <name>samsung note 9</name>
+        <condition>New</condition>
+		<image>phone5.jpg</image>
+		<Accesory>charger.jpg</Accesory>
+        <price>900</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Samsung</manufacturer>
+		<rebate>No</rebate>
+		<quantity>30</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="Phones" id="26" >
+        
+        <name>Nexus</name>
+        <condition>New</condition>
+		<image>nexus.jpg</image>
+		<Accesory>charger.jpg</Accesory>
+        <price>899</price>
+		<discount>25</discount>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Nexus</manufacturer>
+		<rebate>Yes</rebate>
+		<quantity>20</quantity>
+		<onsale>No</onsale>
+       
+    </Product>
+	<Product category="Phones" id="27" >
+        
+        <name>LG</name>
+        <condition>New</condition>
+		<image>lg1.jpg</image>
+		<Accesory>charger.jpg</Accesory>
+        <price>599</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>LG</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>No</onsale>
+       
+    </Product>
+	<Product category="Phones" id="28" >
+        
+        <name>Google Pixel</name>
+        <condition>New</condition>
+		<image>pixel.jpg</image>
+		<Accesory>charger.jpg</Accesory>
+        <price>950</price>
+		<discount>0</discount>
+		<warranty>30</warranty>
+		<manufacturer>Google</manufacturer>
+		<rebate>No</rebate>
+		<quantity>25</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="Phones" id="29" >
+        
+        <name>Nokia Lumia</name>
+        <condition>New</condition>
+		<image>phone9.jpg</image>
+		<Accesory>charger.jpg</Accesory>
+        <price>500</price>
+		<discount>0</discount>
+		<warranty>20</warranty>
+		<manufacturer>Nokia</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="Phones" id="30" >
+        
+        <name>Sony Xperia</name>
+        <condition>New</condition>
+		<image>xperia.jpg</image>
+		<Accesory>charger.jpg</Accesory>
+        <price>799</price>
+		<discount>0</discount>
+		<warranty>30</warranty>
+		<manufacturer>Sony</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+
+
+	
+	<!--Virtual Reality-->
+	
+	
+	<Product category="VirtualReality" id="31" >
+        
+        <name>Gear VR</name>
+        <condition>New</condition>
+		<image>vr1.jpg</image>
+		<Accesory>gloves.jpg</Accesory>
+        <price>150</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>GearVR</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>No</onsale>
+       
+    </Product> 
+	<Product category="VirtualReality" id="32" >
+        
+        <name>Lenovo</name>
+        <condition>New</condition>
+		<image>vr3.jpg</image>
+		<Accesory>gloves.jpg</Accesory>
+        <price>100</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Lenovo</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="VirtualReality" id="33" >
+        
+        <name>MSI</name>
+        <condition>New</condition>
+		<image>vr3.jpg</image>
+		<Accesory>gloves.jpg</Accesory>
+        <price>200</price>
+		<discount>0</discount>
+		<warranty>20</warranty>
+		<manufacturer>MSI</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+    <Product category="VirtualReality" id="34" >
+        
+        <name>HP</name>
+        <condition>New</condition>
+		<image>vr4.jpg</image>
+		<Accesory>gloves.jpg</Accesory>
+        <price>250</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>HP</manufacturer>
+		<rebate>No</rebate>
+		<quantity>25</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="VirtualReality" id="35" >
+        
+        <name>VR Box</name>
+        <condition>New</condition>
+		<image>vr5.jpg</image>
+		<Accesory>gloves.jpg</Accesory>
+        <price>250</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>VRBox</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="VirtualReality" id="36" >
+        
+        <name>Urge</name>
+        <condition>New</condition>
+		<image>vr6.jpg</image>
+		<Accesory>gloves.jpg</Accesory>
+        <price>210</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>UrgeVR</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="VirtualReality" id="37" >
+        
+        <name>Pansonite</name>
+        <condition>New</condition>
+		<image>vr7.jpg</image>
+		<Accesory>gloves.jpg</Accesory>
+        <price>110</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Pansonite</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="VirtualReality" id="38" >
+        
+        <name>Lenovo</name>
+        <condition>New</condition>
+		<image>vr8.jpg</image>
+		<Accesory>gloves.jpg</Accesory>
+        <price>190</price>
+		<discount>0</discount>
+		<warranty>20</warranty>
+		<manufacturer>Lenovo</manufacturer>
+		<rebate>No</rebate>
+		<quantity>15</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="VirtualReality" id="39" >
+        
+        <name>PNY</name>
+        <condition>New</condition>
+		<image>vr9.jpg</image>
+		<Accesory>gloves.jpg</Accesory>
+        <price>130</price>
+		<discount>0</discount>
+		<warranty>20</warranty>
+		<manufacturer>PNY</manufacturer>
+		<rebate>No</rebate>
+		<quantity>12</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="VirtualReality" id="40" >
+        
+        <name>Insignia</name>
+        <condition>New</condition>
+		<image>vr10.jpg</image>
+		<Accesory>gloves.jpg</Accesory>
+        <price>210</price>
+		<discount>0</discount>
+		<warranty>20</warranty>
+		<manufacturer>Insignia</manufacturer>
+		<rebate>No</rebate>
+		<quantity>12</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	
+	<!--laptops-->
+	<Product category="Laptop" id="41" >
+        
+        <name>ASUS 2 in 1 15.6</name>
+        <condition>New</condition>
+		<image>acer.jpg</image>
+		<Accesory>keyboard.jpg</Accesory>
+        <price>600</price>
+		<discount>0</discount>
+		<warranty>20</warranty>
+		<manufacturer>Acer</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product> 
+	<Product category="Laptop" id="42" >
+        
+        <name>Alienware</name>
+        <condition>New</condition>
+		<image>alienware.jpg</image>
+		<Accesory>keyboard.jpg</Accesory>
+        <price>890</price>
+		<discount>0</discount>
+		<warranty>10</warranty>
+		<manufacturer>Alienware</manufacturer>
+		<rebate>No</rebate>
+		<quantity>15</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="Laptop" id="43" >
+        
+        <name>Toshiba 43</name>
+        <condition>New</condition>
+		<image>asus.jpg</image>
+		<Accesory>keyboard.jpg</Accesory>
+        <price>710</price>
+		<discount>0</discount>
+		<warranty>20</warranty>
+		<manufacturer>Asus</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+    <Product category="Laptop" id="44" >
+        
+        <name>Lenovo</name>
+        <condition>New</condition>
+		<image>lenovo.jpg</image>
+		<Accesory>keyboard.jpg</Accesory>
+        <price>799</price>
+		<discount>0</discount>
+		<warranty>40</warranty>
+		<manufacturer>Lenovo</manufacturer>
+		<rebate>No</rebate>
+		<quantity>25</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="Laptop" id="45" >
+        
+        <name>Microsoft</name>
+        <condition>New</condition>
+		<image>microsoft.jpg</image>
+		<Accesory>keyboard.jpg</Accesory>
+        <price>1199</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Microsoft</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="Laptop" id="46" >
+        
+        <name>MSI</name>
+        <condition>New</condition>
+		<image>msi.jpg</image>
+		<Accesory>keyboard.jpg</Accesory>
+        <price>999</price>
+		<discount>220</discount>
+		<warranty>0</warranty>
+		<manufacturer>MSI</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="Laptop" id="47" >
+        
+        <name>Toshiba</name>
+        <condition>New</condition>
+		<image>google.jpg</image>
+		<Accesory>keyboard.jpg</Accesory>
+        <price>899</price>
+		<discount>220</discount>
+		<warranty>30</warranty>
+		<manufacturer>Toshiba</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="Laptop" id="48" >
+        
+        <name>Apple iMac</name>
+        <condition>New</condition>
+		<image>mac.jpg</image>
+		<Accesory>keyboard.jpg</Accesory>
+        <price>799</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Apple</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="Laptop" id="49" >
+        
+        <name>MSI</name>
+        <condition>New</condition>
+		<image>laptop9.jpg</image>
+		<Accesory>keyboard.jpg</Accesory>
+        <price>799</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>MSI</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="Laptop" id="50" >
+        
+        <name>HP</name>
+        <condition>New</condition>
+		<image>laptop5.jpg</image>
+		<Accesory>keyboard.jpg</Accesory>
+        <price>1300</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>HP</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	
+<!-- Smart Speaker-->
+	
+	<Product category="SmartSpeakers" id="51" >
+        
+        <name>JBL</name>
+        <condition>New</condition>
+		<image>jbls.jpg</image>
+		<Accesory>speakera1.jpg</Accesory>
+        <price>50</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>JBL</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product> 
+	<Product category="SmartSpeakers" id="52" >
+        
+        <name>Philips</name>
+        <condition>New</condition>
+		<image>philipss.jpg</image>
+		<Accesory>speakera1.jpg</Accesory>
+        <price>90</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Philips</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+    </Product>
+	<Product category="SmartSpeakers" id="53" >
+        
+        <name>Bose</name>
+        <condition>New</condition>
+		<image>speaker4.jpg</image>
+		<Accesory>speakera1.jpg</Accesory>
+        <price>110</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Bose</manufacturer>
+		<rebate>No</rebate>
+		<quantity>30</quantity>
+		<onsale>yes</onsale>
+       
+		
+       
+    </Product>
+    <Product category="SmartSpeakers" id="54" >
+        
+        <name>Apple Homepad</name>
+        <condition>New</condition>
+		<image>homepad.jpg</image>
+		<Accesory>speakera2.jpg</Accesory>
+		<price>110</price>
+        <discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Apple</manufacturer>
+		<rebate>No</rebate>
+		<quantity>15</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="SmartSpeakers" id="55" >
+        
+        <name>Google Assistant</name>
+        <condition>New</condition>
+		<image>googles.jpg</image>
+		<Accesory>speakera1.jpg</Accesory>
+        <price>120</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Google</manufacturer>
+		<rebate>No</rebate>
+		<quantity>25</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="SmartSpeakers" id="56" >
+        
+        <name>Google Mini</name>
+        <condition>New</condition>
+		<image>googlemini.jpg</image>
+		<Accesory>speakera2.jpg</Accesory>
+        <price>70</price>
+		<discount>0</discount>
+		<warranty>30</warranty>
+		<manufacturer>Google</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="SmartSpeakers" id="57" >
+        
+        <name>Sony</name>
+        <condition>New</condition>
+		<image>sonys.jpg</image>
+		<Accesory>speakera1.jpg</Accesory>
+        <price>50</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Sony</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="SmartSpeakers" id="58" >
+        
+        <name>Amazon</name>
+        <condition>New</condition>
+		<image>amazons.jpg</image>
+		<Accesory>speakera2.jpg</Accesory>
+        <price>199</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Amazon</manufacturer>
+		<rebate>No</rebate>
+		<quantity>15</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="SmartSpeakers" id="59" >
+        
+        <name>Onkyo</name>
+        <condition>New</condition>
+		<image>onkyos.jpg</image>
+		<Accesory>speakera1.jpg</Accesory>
+        <price>170</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Onkyo</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="SmartSpeakers" id="60" >
+        
+        <name>Zolo</name>
+        <condition>New</condition>
+		<image>zolos.jpg</image>
+		<Accesory>speakera2.jpg</Accesory>
+        <price>140</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Zolo</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<!--headphones-->
+	
+	<Product category="Headphones" id="61" >
+        
+        <name>AKG</name>
+        <condition>New</condition>
+		<image>akgh.jpg</image>
+		<Accesory>Headphonestand.jpg</Accesory>
+        <price>299</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>AKG</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product> 
+	<Product category="Headphones" id="62" >
+        
+        <name>Beats Audio</name>
+        <condition>New</condition>
+		<image>beatsh.jpg</image>
+		<Accesory>Headphonestand.jpg</Accesory>
+        <price>150</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>BeatsAudio</manufacturer>
+		<rebate>No</rebate>
+		<quantity>30</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="Headphones" id="63" >
+        
+        <name>66 Aaudio</name>
+        <condition>New</condition>
+		<image>66audio.jpg</image>
+		<Accesory>Headphonestand.jpg</Accesory>
+        <price>130</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>66Audio</manufacturer>
+		<rebate>No</rebate>
+		<quantity>8</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+    <Product category="Headphones" id="64" >
+        
+        <name>Sony</name>
+        <condition>New</condition>
+		<image>sonyh.jpg</image>
+		<Accesory>Headphonestand.jpg</Accesory>
+        <price>120</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Sony</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="Headphones" id="65" >
+        
+        <name>JBL</name>
+        <condition>New</condition>
+		<image>jblh.jpg</image>
+		<Accesory>Headphonestand.jpg</Accesory>
+        <price>399</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>JBL</manufacturer>
+		<rebate>No</rebate>
+		<quantity>25</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="Headphones" id="66" >
+        
+        <name>House of Marley</name>
+        <condition>New</condition>
+		<image>marleyh.jpg</image>
+		<Accesory>Headphonestand.jpg</Accesory>
+        <price>199</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>HouseOfMarley</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="Headphones" id="67" >
+        
+        <name>Sennheiser</name>
+        <condition>New</condition>
+		<image>sennheiserh.jpg</image>
+		<Accesory>Headphonestand.jpg</Accesory>
+        <price>199</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Sennheiser</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="Headphones" id="68" >
+        
+        <name>Samsung</name>
+        <condition>New</condition>
+		<image>samsungh.jpg</image>
+		<Accesory>Headphonestand.jpg</Accesory>
+        <price>110</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Samsung</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="Headphones" id="69" >
+        
+        <name>Skull Candy</name>
+        <condition>New</condition>
+		<image>skullcandy.jpg</image>
+		<Accesory>Headphonestand.jpg</Accesory>
+        <price>299</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>SkullCandy</manufacturer>
+		<rebate>No</rebate>
+		<quantity>25</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="Headphones" id="70" >
+        
+        <name>Apple iBeats</name>
+        <condition>New</condition>
+		<image>ibeatsh.jpg</image>
+		<Accesory>Headphonestand.jpg</Accesory>
+        <price>450</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Apple</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	
+	
+	<!--pet tracker-->
+	
+	<Product category="PetTracker" id="71" >
+        
+        <name>Tractive</name>
+        <condition>New</condition>
+		<image>pt1.jpg</image>
+		<Accesory>pet1.jpg</Accesory>
+        <price>64</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Tractive</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product> 
+	<Product category="PetTracker" id="72" >
+        
+        <name>Secumore</name>
+        <condition>New</condition>
+		<image>pt2.jpg</image>
+		<Accesory>pet1.jpg</Accesory>
+        <price>30</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Secumore</manufacturer>
+		<rebate>No</rebate>
+		<quantity>25</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="PetTracker" id="73" >
+        
+        <name>TopLovo</name>
+        <condition>New</condition>
+		<image>pt3.jpg</image>
+		<Accesory>pet1.jpg</Accesory>
+        <price>80</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>TopLovo</manufacturer>
+		<rebate>No</rebate>
+		<quantity>15</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+    <Product category="PetTracker" id="74" >
+        
+        <name>Tracker</name>
+        <condition>New</condition>
+		<image>pt4.jpg</image>
+		<Accesory>pet1.jpg</Accesory>
+        <price>50</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Tracker</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="PetTracker" id="75" >
+        
+        <name>TKStar</name>
+        <condition>New</condition>
+		<image>pt5.jpg</image>
+		<Accesory>pet1.jpg</Accesory>
+        <price>90</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>TKStar</manufacturer>
+		<rebate>No</rebate>
+		<quantity>30</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="PetTracker" id="76" >
+        
+        <name>poof</name>
+        <condition>New</condition>
+		<image>pt6.jpg</image>
+		<Accesory>pet1.jpg</Accesory>
+        <price>99</price>
+		<discount>0</discount>
+		<warranty>20</warranty>
+		<manufacturer>poof</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="PetTracker" id="77" >
+        
+        <name>Secumore</name>
+        <condition>New</condition>
+		<image>pt7.jpg</image>
+		<Accesory>pet1.jpg</Accesory>
+        <price>110</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Secumore</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="PetTracker" id="78" >
+        
+        <name>oppo</name>
+        <condition>New</condition>
+		<image>pt8.jpg</image>
+		<Accesory>pet1.jpg</Accesory>
+        <price>98</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>oppo</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="PetTracker" id="79" >
+        
+        <name>Sennhe</name>
+        <condition>New</condition>
+		<image>pt9.jpg</image>
+		<Accesory>pet1.jpg</Accesory>
+        <price>130</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Sennhe</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="PetTracker" id="80" >
+        
+        <name>Tracker</name>
+        <condition>New</condition>
+		<image>pt10.jpg</image>
+		<Accesory>pet1.jpg</Accesory>
+        <price>45</price>
+		<discount>0</discount>
+		<warranty>10</warranty>
+		<manufacturer>Tracker</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>	
+	
+	
+	<!-- Accesories-->
+	
+		<Product category="Accessory" id="001" >
+        
+        <name>Speaker Case</name>
+        <condition>New</condition>
+		<image>speakera1.jpg</image>
+		<Accesory>speakera2.jpg</Accesory> 
+        <price>10</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Speaker</manufacturer>
+		<rebate>No</rebate>
+		<quantity>30</quantity>
+		<onsale>yes</onsale>
+       
+      
+    </Product> 
+	<Product category="Accessory" id="002" >
+        
+        <name>Mouse</name>
+        <condition>New</condition>
+		<image>mouse.jpg</image>
+		<Accesory>mousepad.jpg</Accesory>
+        <price>15</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Mouse</manufacturer>
+		<rebate>No</rebate>
+		<quantity>30</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="Accessory" id="003" >
+        
+        <name>Belt</name>
+        <condition>New</condition>
+		<image>belt.jpg</image>
+		<Accesory>belta.jpg</Accesory>
+        <price>25</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Belt</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+    <Product category="Accessory" id="004" >
+        
+        <name>Tempered Glass for watch</name>
+        <condition>New</condition>
+		<image>belt1.jpg</image>
+		<Accesory>casea1.jpg</Accesory>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>TemperedGlass</manufacturer>
+		<rebate>No</rebate>
+		<quantity>30</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="Accessory" id="005" >
+        
+        <name>Gloves For virtual reality</name>
+        <condition>New</condition>
+		<image>gloves.jpg</image>
+		<Accesory>vra.jpg</Accesory>
+        <price>50</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>VRGloves</manufacturer>
+		<rebate>No</rebate>
+		<quantity>10</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="Accessory" id="006" >
+        
+        <name>Iphone6 Case</name>
+        <condition>New</condition>
+		<image>phonecase.jpg</image>
+		<Accesory>scp.jpg</Accesory>
+        <price>20</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Apple</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="Accessory" id="007" >
+        
+        <name>Pet Belt</name>
+        <condition>New</condition>
+		<image>pet1.jpg</image>
+		<Accesory>petrackerbelt.jpg</Accesory>
+        <price>10</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>PetBelt</manufacturer>
+		<rebate>No</rebate>
+		<quantity>30</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="Accessory" id="008" >
+        
+        <name>Stand For Headphones</name>
+        <condition>New</condition>
+		<image>Headphonestand.jpg</image>
+		<Accesory>head8.jpg</Accesory>
+        <price>30</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>Headphonestand</manufacturer>
+		<rebate>No</rebate>
+		<quantity>20</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="Accessory" id="009" >
+        
+        <name>KeyBoard</name>
+        <condition>New</condition>
+		<image>keyboard.jpg</image>
+		<Accesory>keypro.jpg</Accesory>
+        <price>50</price>
+		<discount>0</discount>
+		<warranty>0</warranty>
+		<manufacturer>KeyBoard</manufacturer>
+		<rebate>No</rebate>
+		<quantity>30</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	<Product category="Accessory" id="010" >
+        
+        <name>Mobile Charger</name>
+        <condition>New</condition>
+		<image>charger.jpg</image>
+		<Accesory>charger1.jpg</Accesory>
+        <price>20</price>
+		<discount>5</discount>
+		<warranty>0</warranty>
+		<manufacturer>MobileCharger</manufacturer>
+		<rebate>No</rebate>
+		<quantity>30</quantity>
+		<onsale>yes</onsale>
+       
+       
+    </Product>
+	
+	
+</ProductCatalog>
+
